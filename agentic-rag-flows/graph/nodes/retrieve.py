@@ -5,7 +5,7 @@
 from typing import Any, Dict
 
 from ..state import GraphState
-from ...ingestion import retriever
+from ingestion import retriever
 
 
 def retrieve(state: GraphState) -> Dict[str, Any]:

@@ -4,5 +4,5 @@
 
 # LangGraph
 .langgraph_api/
-.env
+agentic-rag-flows/.env
 .venv
